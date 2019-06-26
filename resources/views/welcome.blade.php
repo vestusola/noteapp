@@ -3,12 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="refresh" content="3; url={{ url('/home') }}">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <meta keyword="Note App" description="Note Application">
-        <meta http-equiv="refresh" content="3; url={{ url('/home')}}">
-        <meta author="Festus Olatunbosun Oyeleye">
+        <meta name="keyword" description="Note Application">
+        <meta name="author" content="Festus Olatunbosun Oyeleye">
         <link rel="manifest" href="{{ asset('manifest.json') }}">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="theme-color" content="#2196f3">

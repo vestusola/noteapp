@@ -8,6 +8,8 @@ A simple note application using laravel-vue
 Run $ npm install
 # $ npm run watch
 
+# php artisan migrate
+
 # php artisan serve
 
 ```
