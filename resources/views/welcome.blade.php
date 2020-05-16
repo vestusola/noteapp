@@ -53,13 +53,15 @@
             .title {
                 font-size: 84px;
             }
-            .img-div{
+            .img-div {
                 max-width: 400px;
                 position: relative;
+                margin-right: auto;
+                margin-left: auto;
             }
             .img-div .img {
                 position: relative;
-                width:256px;
+                width: 256px;
                 height: 256px;
             }
 
