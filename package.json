@@ -33,7 +33,7 @@
     "dependencies": {
         "bootstrap-vue": "^2.0.0-rc.19",
         "font-awesome": "^4.7.0",
-        "jquery-validation": "^1.19.0",
+        "jquery-validation": "^1.19.5",
         "sw-precache": "^5.2.1",
         "vue-axios": "^2.1.4",
         "vue-router": "^3.0.3",
